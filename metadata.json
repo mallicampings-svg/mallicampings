@@ -1,0 +1,7 @@
+{
+  "name": "CAMPING CLUB MALLI",
+  "description": "Aplicación de gestión con portales de administración y usuarios, reservas y validación de pagos para el complejo Camping Club Malli.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
